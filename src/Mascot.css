@@ -1,0 +1,25 @@
+
+.mascotlogo {
+  width: 500px; /* adjust as needed */
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+h1,h2 {
+  text-align: center;
+  color: black;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  margin-top:20px; /* adjust as needed */
+  padding: 10px 20px;
+  background-color: #2A1B3D;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+}

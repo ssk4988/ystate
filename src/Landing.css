@@ -1,0 +1,7 @@
+.Landing {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 10px;
+    margin-bottom: 50px;
+}
