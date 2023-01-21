@@ -2,7 +2,7 @@ import React from 'react';
 import "./CollectionRating.css"
 import Navbar from './Navbar';
 
-function CollectionRating() {
+function CollectionRating( {send} ) {
     return (
         <div>
             <Navbar/>

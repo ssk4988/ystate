@@ -3,7 +3,7 @@ import './HabitView.css';
 
 
 
-function HabitView() {
+function HabitView( {send} ) {
 
     const [habits, setHabits] = React.useState(["Running", "Swimming", "Sleeping Early", "Journaling", "Meditating"])
 

@@ -2,7 +2,7 @@ import React from 'react';
 import "./Habits.css"
 import Navbar from './Navbar';
 
-function Habits() {
+function Habits( {send}) {
     return (
         <div>
             <Navbar />
